@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer font-poppins mt-2">
       <div className="footer-container">
         <p>
-          © 2023 <strong>Nikos Skliris</strong>| All rights reserved.
+          © 2023 <strong>Nikos Skliris</strong> | All rights reserved.
         </p>
 
         <div className="flex gap-3 justify-center items-center">
