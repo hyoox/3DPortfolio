@@ -8,9 +8,9 @@ const useAlert = () => {
         text, type
     });
     const hideAlert = () => setAlert({
-        show: true,
-        text,
-        type
+        show: false,
+        text: '',
+        type: 'danger'
     })
 
     return { alert, showAlert, hideAlert }
