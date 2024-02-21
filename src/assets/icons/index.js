@@ -10,6 +10,8 @@ import mui from './mui.svg'
 import nextjs from './nextjs.svg'
 import nodejs from './nodejs.svg'
 import react from './react.svg'
+import csharp from './csharp.svg'
+import python from './python.svg'
 import redux from './redux.svg'
 import sass from './sass.svg'
 import tailwindcss from './tailwindcss.svg'
@@ -39,6 +41,8 @@ export {
     mui,
     nextjs,
     nodejs,
+    csharp,
+    python,
     react,
     redux,
     sass,

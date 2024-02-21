@@ -14,7 +14,7 @@ const Projects = () => {
         </span>
       </h1>
 
-      <p className="text-slate-500 mt-2 leading-relaxed">asdf</p>
+      <p className="text-slate-500 mt-2 leading-relaxed"></p>
 
       <div className="flex flex-wrap my-20 gap-16">
         {projects.map((project) => (
